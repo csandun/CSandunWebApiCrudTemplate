@@ -9,7 +9,6 @@ You can use this as a template or solution to create a simple Asp.Net sample Web
 * SQL Server
 
 ## Getting Started
-The easiest way to get started is to install the NuGet package and run ```dotnet new csandun-webapi-crud```.
 1. Install the latest .NET 6 SDK.
 2. Run ```dotnet new --install  .\``` in Command Line from the projet root folder to install the project template.
 3. Create a folder for your solution and cd into it (the template will use it as project name).
