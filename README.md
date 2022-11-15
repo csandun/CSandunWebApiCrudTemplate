@@ -13,7 +13,7 @@ The easiest way to get started is to install the NuGet package and run ```dotnet
 1. Install the latest .NET 6 SDK.
 2. Run ```dotnet new --install  .\``` in Command Line from the projet root folder to install the project template.
 3. Create a folder for your solution and cd into it (the template will use it as project name).
-4. Run ```dotnet new csandun-webapi-crud``` to create a new project.
+4. Run ```dotnet new csandun-webapi-crud --name <name of the solution>``` to create a new project.
 5. Navigate to project folder and launch the project using dotnet run.
 
 
