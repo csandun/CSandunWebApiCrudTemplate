@@ -1,4 +1,4 @@
-# CSandunWebApiCrudTemplate
+# CSandun WebApi Crud Template
 This is a solution template for creating a simple CRUD ASP.NET Core Api for helping to create sample peoject every blogpost.
 You can use this as a template or solution to create a simple Asp.Net sample Web Api application.
 
