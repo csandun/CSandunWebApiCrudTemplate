@@ -21,7 +21,9 @@ The easiest way to get started is to install the NuGet package and run ```dotnet
 You can use below commands to migrate sample ```TodoItem``` entity into the database.
 
 * This is can be use to update database in current state of the database
+
 ```dotnet ef database update --project <starting project name>```
 
 * This command helps to create a new migration
+
 ```dotnet ef migrations add <migration comment> --project <starting project name> ```
