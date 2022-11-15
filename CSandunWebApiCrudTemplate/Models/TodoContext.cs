@@ -27,4 +27,4 @@ public class TodoContext : DbContext
 }
 
 //dotnet ef migrations add add-todos-isdelete-configs --project CSandunWebApiCrudTemplate    
-//dotnet ef migrations add add-todos-isdelete --project CSandunWebApiCrudTemplate    
+//dotnet ef database update --project CSandunWebApiCrudTemplate    
