@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "CSandun",
+  "classifications": [
+    "Web",
+    "ASP.NET"
+  ],
+  "name": "CSandun CRUD Web Api",
+  "description":  "This is a test.",
+  "identity": "CSandunWebApiCrudTemplate.WebApi",
+  "groupIdentity": "CSandunWebApiCrudTemplate.WebApi",
+  "shortName": "csandun-webapi-crud",
+  "generatorVersions": "[1.0.0.0-*)",
+  "precedence": "100",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CSandunWebApiCrudTemplate",
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "source": "./",
+      "target": "./",
+      "exclude": [
+        "README.md",
+        "**/[Bb]in/**",
+        "**/[Oo]bj/**",
+        ".template.config/**/*",
+        ".vs/**/*",
+        "**/*.filelist",
+        "**/*.user",
+        "**/*.lock.json",
+        "**/.git/**",
+        "*.nuspec",
+        "**/node_modules/**"
+      ]
+    }
+  ]
+}
